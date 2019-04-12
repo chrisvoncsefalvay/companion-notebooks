@@ -23,6 +23,7 @@ A selection of companion notebooks and materials to various papers and blog post
 ### Jupyter Notebook best practices (WIP)
 
 | Part | Section | Notebook |
+| ---- | ------- | -------- |
 | GENERAL | 1.1 | [General considerations](https://github.com/chrisvoncsefalvay/jupyter-best-practices/blob/master/01.01-General.ipynb) |
 |   | 1.2 | [Markdown and document structure](https://github.com/chrisvoncsefalvay/jupyter-best-practices/blob/master/01.02-Markdown_and_document_structure.ipynb) |
 |   | 1.3 | [Extensions, kernels and magics](https://github.com/chrisvoncsefalvay/jupyter-best-practices/blob/master/01.03-Extensions-kernels-and-magics.ipynb) |
