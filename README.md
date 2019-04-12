@@ -13,7 +13,7 @@ A selection of companion notebooks and materials to various papers and blog post
 | 2 | [Self-Organising Feature Maps for fun and profit](https://medium.com/starschema-blog/self-organising-feature-maps-for-fun-and-profit-d1f62930e3b9) | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/02_Kohonen_SOFMs.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/chrisvoncsefalvay/competitive-neural-networks/blob/master/02_Kohonen_SOFMs.ipynb) |
 | 3 | [Growing Neural Gas models: theory and practice](https://medium.com/starschema-blog/growing-neural-gas-models-theory-and-practice-b63e5bbe058d)  | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/03_Detecting_retinopathy_with_GNG.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/chrisvoncsefalvay/competitive-neural-networks/blob/master/03_Detecting_retinopathy_with_GNG.ipynb) |
 
-### Diffie-Hellman in under 25 lines
+### Blog posts on [chrisvoncsefalvay.com](https://chrisvoncsefalvay.com)
 
 | Blog post | Companion repo | 
 | --------- | -------------- |
