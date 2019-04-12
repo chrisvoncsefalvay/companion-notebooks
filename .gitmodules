@@ -1,0 +1,12 @@
+[submodule "competitive-neural-networks"]
+	path = competitive-neural-networks
+	url = git@github.com:chrisvoncsefalvay/competitive-neural-networks.git
+[submodule "jupyter-best-practices"]
+	path = jupyter-best-practices
+	url = https://github.com/chrisvoncsefalvay/jupyter-best-practices
+[submodule "diffiehellman"]
+	path = diffiehellman
+	url = https://github.com/chrisvoncsefalvay/diffiehellman
+[submodule "fablab-eagle-workshop-INT"]
+	path = fablab-eagle-workshop-INT
+	url = https://github.com/chrisvoncsefalvay/fablab-eagle-workshop-INT
